@@ -3,7 +3,7 @@
 # Project Overview
 The purpose is to detect real-time handwriting digits by showing the digits in front of the web camera. Developed CNN model using MNIST dataset and got 99% accuracy.
 
-#Tools
+# Tools
 1. Python
 2. Tensorflow
 3. Keras
